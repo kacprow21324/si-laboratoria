@@ -13,15 +13,15 @@ Poniżej znajduje się krótkie porównanie wyników modeli LSTM i GRU wykonanyc
 
 | Model | Screen z metrykami |
 |---|---|
-| LSTM | ![LSTM metrics](screeny/LTSMler.png) |
-| GRU | ![GRU metrics](screeny/GRUler.png) |
+| LSTM | ![LSTM metrics](screeny/LTSMw.png) |
+| GRU | ![GRU metrics](screeny/GRUw.png) |
 
 ## Prędkość nauki
 
 | Model | Screen z treningu | Obserwacja |
 |---|---|---|
-| LSTM | ![LSTM training](screeny/LTSMw.png) | Trening zakończył się po 50/50 epokach, czas na krok to ok. 16 ms/step. |
-| GRU | ![GRU training](screeny/GRUw.png) | Early stopping zatrzymał naukę po 56/100 epokach, czas na krok to ok. 15 ms/step. |
+| LSTM | ![LSTM training](screeny/LTSMler.png) | Trening zakończył się po 50/50 epokach, czas na krok to ok. 16 ms/step. |
+| GRU | ![GRU training](screeny/GRUler.png) | Early stopping zatrzymał naukę po 56/100 epokach, czas na krok to ok. 15 ms/step. |
 
 ## Podsumowanie
 
