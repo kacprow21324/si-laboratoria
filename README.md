@@ -27,5 +27,4 @@ si-laboratoria/
 ├── lab-si-5/       # Laboratorium nr 5 - LSTM, GRU - regresja
 ├── lab-si-6/       # Laboratorium nr 6 - praca z API lokalnego modelu
 └── lab-si-7/       # Laboratorium nr 7 - RAG
-
----
+```
