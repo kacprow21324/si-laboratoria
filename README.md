@@ -34,4 +34,5 @@ si-laboratoria/
 ## Projekt 
 
 Projekt "Flutter Study Forge" to inteligentny asystent edukacyjny oparty na technologii RAG, który umożliwia wgrywanie własnych materiałów (takich jak pliki PDF czy zdjęcia notatek), aby na ich podstawie rozmawiać ze sztuczną inteligencją, generować fiszki oraz rozwiązywać quizy wspierające proces nauki.
-[LINK](https://github.com/kacprow21324/flutter-study-forge)
+
+Link: <https://github.com/kacprow21324/flutter-study-forge>
