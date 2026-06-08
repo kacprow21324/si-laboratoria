@@ -28,3 +28,10 @@ si-laboratoria/
 ├── lab-si-6/       # Laboratorium nr 6 - praca z API lokalnego modelu
 └── lab-si-7/       # Laboratorium nr 7 - RAG
 ```
+
+---
+
+## Projekt 
+
+Projekt "Flutter Study Forge" to inteligentny asystent edukacyjny oparty na technologii RAG, który umożliwia wgrywanie własnych materiałów (takich jak pliki PDF czy zdjęcia notatek), aby na ich podstawie rozmawiać ze sztuczną inteligencją, generować fiszki oraz rozwiązywać quizy wspierające proces nauki.
+[LINK](https://github.com/kacprow21324/flutter-study-forge)
